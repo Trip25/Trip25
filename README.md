@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Trip25
-- 👀 I’m interested in learning to code
-- 🌱 I’m currently learning html/CSS
- I also play Genshin Impact and Dota
+- Hi, I’m Tripti 👋 
+- 👀 Looking to learn more about coding and become Software Developer 
+- Currently self-learning JavaScript
+
