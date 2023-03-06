@@ -1,7 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tripti Gurung
 =====================================================================================================================================
 
-Over the past year I have been self learning and taking courses to learn the foundations of web development and am currently enrolled on a course with Code First Girls on their nano degree taking the Data pathway. I am also taking the HarvardX CS50B :CS50's Computer Science for Business Professionals to gain an understanding on computational thinking, programming languages and web development, computing etc
+Over the past year I have been self learning and taking courses to learn the foundations of web development
+I have graduated with a nano degree in Data with Code First Girls, where my place was sponsored by KFC. 
+I am currently a student Full Stack Developer in the School of Code bootcamp, looking to graduate at the end of June!
 
 * 🌍  I'm based in Hampshire, United Kingdom
 * ✉️  You can contact me at [t.gurung1995@gmail.com](mailto:t.gurung1995@gmail.com)
