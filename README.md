@@ -2,8 +2,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =====================================================================================================================================
 
 Over the past year I have been self learning and taking courses to learn the foundations of web development
-I have graduated with a nano degree in Data with Code First Girls, where my place was sponsored by KFC. 
-I am currently a student Full Stack Developer in the School of Code bootcamp, looking to graduate at the end of June!
+<br>
+I have graduated with a nano degree in Data with Code First Girls, where my place was sponsored by KFC.
+<br>
+<strong>I am currently a student Full Stack Developer in the School of Code bootcamp, looking to graduate at the end of June!</strong>
 
 * 🌍  I'm based in Hampshire, United Kingdom
 * ✉️  You can contact me at [t.gurung1995@gmail.com](mailto:t.gurung1995@gmail.com)
