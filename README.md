@@ -1,11 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tripti Gurung
 =====================================================================================================================================
 
-Over the past year I have been self learning and taking courses to learn the foundations of web development
+Over the past year I have been self learning and taking courses to learn the foundations of web development.
 <br>
 I have graduated with a nano degree in Data with Code First Girls, where my place was sponsored by KFC.
 <br>
-<strong>I am currently a student Full Stack Developer in the School of Code bootcamp, looking to graduate at the end of June!</strong>
+<strong>From March 2023 I am a Junior Full Stack Developer at the School of Code bootcamp cohort 14, looking to graduate at the end of June 2023!</strong>
+<br>
+I am also using freecodecamp and codecademy to enforce my studies.
 
 * 🌍  I'm based in Hampshire, United Kingdom
 * ✉️  You can contact me at [t.gurung1995@gmail.com](mailto:t.gurung1995@gmail.com)
