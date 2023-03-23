@@ -9,7 +9,7 @@ I have graduated with a nano degree in Data with Code First Girls, where my plac
 <br>
 I am also using freecodecamp and codecademy to enforce my studies.
 
-* 🌍  I'm based in Hampshire, United Kingdom
+* 🌍  I'm based in Hampshire, UK
 * ✉️  You can contact me at [t.gurung1995@gmail.com](mailto:t.gurung1995@gmail.com)
 * 🧠  I'm learning HTML and CSS and Javascript at the moment!
 * ⚡  I love cooking and eating!
