@@ -8,7 +8,7 @@ I have a background in Accounting and Finance but over the past year I have been
 
 * 🌍  I'm based in Hampshire, United Kingdom
 * ✉️  You can contact me at [t.gurung1995@gmail.com](mailto:t.gurung1995@gmail.com)
-* 🧠  I'm learning React and will be moving on backend servers and SQL
+* 🧠  I'm learning backend servers, SQL and implementing a full stack application.
 * 🤝  I'm open to collaborating on interesting projects and designs
 * ⚡  I love cooking and trying out different cuisines, if I'm not doing that I'm normally gaming or watching films!
 
