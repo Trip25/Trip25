@@ -4,11 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 ---------------------------
 
-I have a background in Accounting and Finance but over the past year I have been self learning and taking courses to learn the foundations of web development and I have graduated from a nano degree Data course with Code First Girls where my place was sponsored by KFC. I enrolled in a Full Stack Development bootcamp with the School of Code, cohort 14 and finished the training phase at the end of June 2023. I am now currently working as a developer with KFc/Yum Brands.
+> 🚀 **Open to opportunities** — I'm actively looking for **Mid/Senior Full Stack Developer** roles. If you think I'd be a good fit for your team, feel free to reach out to my Linkedin!
+
+From a background in Accounting and Finance graduated from two bootcamps, one in Data Science with Code First Girls and the other in a Full Stack Development with the School of Code, cohort 14. I am now currently working as a Software Engineer for KFC/Yum Brands.
 
 * 🌍  I'm based in Hampshire, United Kingdom
 * ✉️  You can contact me at [t.gurung1995@gmail.com](mailto:t.gurung1995@gmail.com)
-* 🧠  I'm learning Cloud Computing with AWS
+* 🧠  I'm interested in Cloud Computing mainly AWS, SRE
 * 🤝  I'm open to collaborating on interesting projects and designs
 * ⚡  I love cooking and trying out different cuisines, if I'm not doing that I'm normally gaming or watching films!
 * ⚡  I've also taken up swimming and play tennis and badminton frequently!
